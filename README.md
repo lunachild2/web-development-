@@ -1,1 +1,1 @@
-# web-development Study
+# 웹개발 스터디
